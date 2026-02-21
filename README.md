@@ -1,4 +1,4 @@
-# Hi, I'm Rickmon 👋
+# Hi, I'm Rishik 👋
 
 Computer Science student at **IIIT Una**  
 Machine Learning enthusiast | Backend builder | Chess thinker
