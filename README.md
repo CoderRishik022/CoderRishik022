@@ -1,7 +1,7 @@
 # Hi, I'm Rishik 👋
 
 Computer Science student at **IIIT Una**  
-Machine Learning enthusiast | Backend builder | Chess thinker
+Machine Learning enthusiast
 
 ---
 
@@ -28,7 +28,7 @@ Currently focused on:
 ### Backend
 - FastAPI
 - REST APIs
-- Linux-based development (Arch)
+- Linux-based development
 
 ### Frontend
 - React.js
@@ -57,7 +57,6 @@ If you're working on:
 - ML deployment
 - Backend for ML
 - Deep learning research
-- Chess + AI discussions
 
 We’ll probably get along.
 
